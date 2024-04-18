@@ -10,7 +10,7 @@ function About() {
                     <div className='py-5'>
                         A fully responsive movie ticket booking website made using ReactJS and TailwindCSS. The route "/booking" is the same for all movies. It displays data dynamically based on the movie chosen by the user.
                     </div>
-                    <a href='' className='underline'>Github</a>
+                    <a href='https://github.com/KrishnaV2/Movie-Booking-Site' className='underline'>Github</a>
                 </div>
             </div>
         </div>
